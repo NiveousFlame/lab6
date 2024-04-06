@@ -1,0 +1,10 @@
+release/dwgcircle.o
+release/dwgline.o
+release/dwgobject.o
+release/main.o
+release/mainwindow.o
+release/qrc_res.o
+release/moc_dwgcircle.o
+release/moc_dwgline.o
+release/moc_dwgobject.o
+release/moc_mainwindow.o
